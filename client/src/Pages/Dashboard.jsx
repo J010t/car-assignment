@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Step from "../components/Step";
-import Data from "../components/Data";
 
 // Define steps
 const roadmapSteps = [
